@@ -12,8 +12,8 @@ from aiogram import BaseMiddleware
 from typing import Dict, Any, Callable, Awaitable
 
 # Конфигурация
-API_TOKEN = '7958697244:AAGqmpJSCQEG8GjqcuD6PP5gxgeek-j7fuo'
-ADMIN_ID = 7371677127
+API_TOKEN = 
+ADMIN_ID = 
 STATE_FILE = Path('bot_state.json')
 
 # Настройка логирования
